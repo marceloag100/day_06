@@ -1,0 +1,7 @@
+captures/
+captures_/
+node_modules/
+domains.json
+.DS_Store
+index.js
+scrap.js
